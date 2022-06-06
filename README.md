@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm TheJonstone</h1>
-<img align="center" src="https://github.com/TheJonstone/TheJonstone1/blob/main/TheJonstone-avatar.png"/>
+<img align="center" src="https://github.com/TheJonstone/TheJonstone1/blob/main/TheJonstone.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thejonstone&label=Profile%20views&color=0e75b6&style=flat" alt="thejonstone" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
