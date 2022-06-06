@@ -5,7 +5,6 @@
 <p align="left"> 
  Discord: <a href="https://discord.com/users/398197691072380928" target="blank">TheJonstone✓#6946</a>
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejonstone" alt="thejonstone" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thejonstone&show_icons=true&locale=en&layout=compact" alt="thejonstone" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejonstone&show_icons=true&locale=en" alt="thejonstone" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thejonstone&" alt="thejonstone" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=thejonstone&theme=onedark" alt="thejonstone" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejonstone&show_icons=true&theme=dark&title_color=0eb4a9&bg_color=000000&hide_border=true&locale=en" alt="thejonstone" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thejonstone&theme=highcontrast" alt="thejonstone" /></p>
