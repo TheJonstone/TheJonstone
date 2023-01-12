@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hi 👋🏻, I'm TheJonstone</h1>
-  <img src="https://github.com/TheJonstone/TheJonstone1/blob/main/TheJonstone.png"/>
+  <a href="https://github.com/TheJonstone/" target="blank">
+      <img src="https://github.com/TheJonstone/TheJonstone1/blob/main/TheJonstone.png"/>
+  </a>
 </div>
 <hr>
 <div align="left">
